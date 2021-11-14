@@ -1,0 +1,39 @@
+{
+  "reference_block": {
+    "prefix": "reference",
+    "body": ["___", "", "## Références", ""],
+    "description": "Adding a reference block"
+  },
+  "Table": {
+    "prefix": "table",
+    "body": ["| ${1} | ${2} |", "|-|-|", "| ${3} | ${4} |"],
+    "description": "Table"
+  },
+  "Youtube integration": {
+    "prefix": "youtube",
+    "body": ["@[youtube](${1})"],
+    "description": "Youtube integration"
+  },
+  "Standard": {
+    "prefix": "standard",
+    "body": [
+      "# ${1:Standard}",
+      "",
+      "## Intention",
+      "",
+      "## Points clefs",
+      "",
+      "## Erreurs à éviter",
+      "",
+      "---",
+      "",
+      "## Exemples"
+    ],
+    "description": "Standard"
+  },
+  "fiche de lecture": {
+    "prefix": "fiche",
+    "body": ["# 📘 ${1:Titre}", "", "## [${2:Auteur}](${3}) - ${4:année}", ""],
+    "description": "Fiche de lecture"
+  }
+}
