@@ -15,5 +15,5 @@ ___
 
 - ["How to take smart notes"](https://takesmartnotes.com)
 - [Les liens entre les mathématiques](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
-- [Working with sli boxes - Luhmann](http://luhmann.surge.sh/communicating-with-slip-boxes)
+- [Working with slip boxes - Luhmann](http://luhmann.surge.sh/communicating-with-slip-boxes)
 - [Personal Knowledge Management for Beginners](https://matthiasfrank.de/personal-knowledge-management-for-beginnersREADM)
